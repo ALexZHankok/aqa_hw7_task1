@@ -1,1 +1,1 @@
-![](images/Proof Postman.png)
+![Proof in Postman](/Users/alexzhankok/IdeaProjects/aqa-code/api-ci/aqa_hw7_task1/images/Proof Postman.png)
