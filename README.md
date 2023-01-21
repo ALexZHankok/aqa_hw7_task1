@@ -1,1 +1,1 @@
-![](../../../../Downloads/Снимок экрана 2023-01-21 в 16.30.15.png)
+![](images/Proof Postman.png)
